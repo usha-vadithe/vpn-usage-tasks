@@ -1,0 +1,37 @@
+# Task 8: Working with VPNs – Cyber Security Internship
+
+## 🔐 VPN Used:
+ProtonVPN (Free Tier)
+
+## 🧭 Steps Followed:
+1. Signed up at protonvpn.com
+2. Installed ProtonVPN desktop client on Windows
+3. Connected to a Netherlands server using Quick Connect
+4. Verified IP address changed using whatismyipaddress.com
+5. Browsed securely through encrypted tunnel
+6. Disconnected and compared speed & IP location
+
+## 🌐 Screenshots Included:
+- VPN connected status
+- IP address before and after connection
+
+## 🔍 What is a VPN?
+A **VPN (Virtual Private Network)** encrypts internet traffic and routes it through a secure tunnel to protect privacy and bypass geographic restrictions.
+
+## 🔑 Key Benefits:
+- Hides IP address and location
+- Encrypts all online activity
+- Helps avoid tracking on public Wi-Fi
+- Enables access to geo-blocked content
+
+## ⚠️ Limitations:
+- Slower speeds (especially with free VPNs)
+- Some free VPNs may log user data
+- Cannot guarantee complete anonymity
+- Not a substitute for antivirus or firewall
+
+## 📖 VPN Protocols Used:
+- ProtonVPN uses **WireGuard**, **OpenVPN**, and **IKEv2** in the free version
+
+## ✅ Outcome:
+Learned how to set up and use a VPN, verified IP masking and encrypted browsing. Understood VPN use cases and limitations.
